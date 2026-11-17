@@ -1,0 +1,3508 @@
+[
+  {
+    "id": 1,
+    "nama": "Gunung Papandayan",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 2919,
+    "rating": 2.6,
+    "estimasi_pendapatan": 29190000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Pusat Informasi",
+      "Mushola",
+      "Penginapan / Glamping",
+      "Toilet"
+    ],
+    "tahun_buka": 1990
+  },
+  {
+    "id": 2,
+    "nama": "Situ Bagendit",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 500,
+    "rating": 3.7,
+    "estimasi_pendapatan": 2500000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 3,
+    "nama": "Pantai Santolo",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 13003,
+    "rating": 4.2,
+    "estimasi_pendapatan": 195045000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 4,
+    "nama": "Candi Cangkuang",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 127,
+    "rating": 2.4,
+    "estimasi_pendapatan": 3175000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Warung Makan",
+      "Area Parkir",
+      "Pusat Informasi",
+      "Toilet"
+    ],
+    "tahun_buka": 2004
+  },
+  {
+    "id": 5,
+    "nama": "Darajat Pass",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 1856,
+    "rating": 3.7,
+    "estimasi_pendapatan": 46400000,
+    "fasilitas": [
+      "Toilet",
+      "Mushola",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Warung Makan",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2002
+  },
+  {
+    "id": 6,
+    "nama": "Kawah Kamojang",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 21058,
+    "rating": 4.9,
+    "estimasi_pendapatan": 526450000,
+    "fasilitas": [
+      "Toilet",
+      "Warung Makan",
+      "Mushola",
+      "Spot Foto",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2007
+  },
+  {
+    "id": 7,
+    "nama": "Pantai Sayang Heulang",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 27945,
+    "rating": 4.8,
+    "estimasi_pendapatan": 558900000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2000
+  },
+  {
+    "id": 8,
+    "nama": "Curug Sanghyang Taraje",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 10424,
+    "rating": 4.7,
+    "estimasi_pendapatan": 156360000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 9,
+    "nama": "Taman Satwa Cikembulan",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Kadungora",
+    "pengunjung": 1741,
+    "rating": 3.7,
+    "estimasi_pendapatan": 17410000,
+    "fasilitas": [
+      "Mushola",
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1980
+  },
+  {
+    "id": 10,
+    "nama": "Pemandian Air Panas Cipanas",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 2878,
+    "rating": 3.6,
+    "estimasi_pendapatan": 28780000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Warung Makan",
+      "Mushola",
+      "Toilet"
+    ],
+    "tahun_buka": 2009
+  },
+  {
+    "id": 11,
+    "nama": "Gunung Cikuray",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 885,
+    "rating": 4.4,
+    "estimasi_pendapatan": 13275000,
+    "fasilitas": [
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2004
+  },
+  {
+    "id": 12,
+    "nama": "Pantai Rancabuaya",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Leles",
+    "pengunjung": 1730,
+    "rating": 2.9,
+    "estimasi_pendapatan": 17300000,
+    "fasilitas": [
+      "Toilet",
+      "Spot Foto",
+      "Warung Makan",
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Mushola"
+    ],
+    "tahun_buka": 2008
+  },
+  {
+    "id": 13,
+    "nama": "Curug Orok",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Caringin",
+    "pengunjung": 2105,
+    "rating": 2.6,
+    "estimasi_pendapatan": 42100000,
+    "fasilitas": [
+      "Toilet",
+      "Warung Makan",
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1998
+  },
+  {
+    "id": 14,
+    "nama": "Desa Wisata Saung Ciburial",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 2554,
+    "rating": 4.4,
+    "estimasi_pendapatan": 63850000,
+    "fasilitas": [
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Warung Makan",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1997
+  },
+  {
+    "id": 15,
+    "nama": "Kawasan Wisata Gunung Guntur",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 1981,
+    "rating": 3.2,
+    "estimasi_pendapatan": 19810000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 16,
+    "nama": "Bukit Pilar Angin",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 305,
+    "rating": 3.1,
+    "estimasi_pendapatan": 6100000,
+    "fasilitas": [
+      "Warung Makan",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1983
+  },
+  {
+    "id": 17,
+    "nama": "Pantai Karang Paranje",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 46753,
+    "rating": 5,
+    "estimasi_pendapatan": 1168825000,
+    "fasilitas": [
+      "Toilet",
+      "Mushola",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 18,
+    "nama": "Curug Jagapati",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 9549,
+    "rating": 4.1,
+    "estimasi_pendapatan": 143235000,
+    "fasilitas": [
+      "Mushola",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1993
+  },
+  {
+    "id": 19,
+    "nama": "Hutan Mati Papandayan",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 34492,
+    "rating": 4.6,
+    "estimasi_pendapatan": 517380000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Mushola",
+      "Area Parkir",
+      "Toilet",
+      "Pusat Oleh-oleh",
+      "Warung Makan"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 20,
+    "nama": "Talaga Bodas",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 899,
+    "rating": 4.3,
+    "estimasi_pendapatan": 17980000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Toilet",
+      "Pusat Informasi",
+      "Spot Foto",
+      "Mushola"
+    ],
+    "tahun_buka": 1997
+  },
+  {
+    "id": 21,
+    "nama": "Kampung Pulo",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 37258,
+    "rating": 4.6,
+    "estimasi_pendapatan": 745160000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Penginapan / Glamping",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2010
+  },
+  {
+    "id": 22,
+    "nama": "Makam Godog",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 1381,
+    "rating": 4,
+    "estimasi_pendapatan": 27620000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Mushola",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2008
+  },
+  {
+    "id": 23,
+    "nama": "Sentra Kerajinan Kulit Sukaregang",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 2762,
+    "rating": 4.1,
+    "estimasi_pendapatan": 27620000,
+    "fasilitas": [
+      "Mushola"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 24,
+    "nama": "Curug Nyogong",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 2009,
+    "rating": 3.9,
+    "estimasi_pendapatan": 30135000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Warung Makan",
+      "Mushola"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 25,
+    "nama": "Batu Lempar",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 2202,
+    "rating": 3.7,
+    "estimasi_pendapatan": 22020000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Area Parkir",
+      "Spot Foto",
+      "Pusat Informasi",
+      "Toilet"
+    ],
+    "tahun_buka": 2009
+  },
+  {
+    "id": 26,
+    "nama": "Leuwi Korsi",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 1593,
+    "rating": 3.5,
+    "estimasi_pendapatan": 15930000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Akses Kursi Roda",
+      "Toilet",
+      "Spot Foto",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2011
+  },
+  {
+    "id": 27,
+    "nama": "Pantai Puncak Guha",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 21062,
+    "rating": 4.7,
+    "estimasi_pendapatan": 526550000,
+    "fasilitas": [
+      "Area Parkir",
+      "Mushola",
+      "Warung Makan",
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 1995
+  },
+  {
+    "id": 28,
+    "nama": "Curug Cikawung",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Caringin",
+    "pengunjung": 11849,
+    "rating": 4.3,
+    "estimasi_pendapatan": 236980000,
+    "fasilitas": [
+      "Mushola",
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 29,
+    "nama": "Kawasan Wisata Lamping Cirorek",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 1932,
+    "rating": 3.3,
+    "estimasi_pendapatan": 19320000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Toilet",
+      "Warung Makan",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 30,
+    "nama": "Situ Gede",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 2233,
+    "rating": 2.9,
+    "estimasi_pendapatan": 55825000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Area Parkir",
+      "Warung Makan",
+      "Pusat Informasi",
+      "Toilet"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 31,
+    "nama": "Taman Air Wangi 4",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 1452,
+    "rating": 4.3,
+    "estimasi_pendapatan": 7260000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Toilet",
+      "Pusat Oleh-oleh",
+      "Warung Makan",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 32,
+    "nama": "Gunung Galuh 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 2287,
+    "rating": 2.3,
+    "estimasi_pendapatan": 57175000,
+    "fasilitas": [
+      "Spot Foto"
+    ],
+    "tahun_buka": 2012
+  },
+  {
+    "id": 33,
+    "nama": "Taman Air Sari 2",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 1501,
+    "rating": 4.1,
+    "estimasi_pendapatan": 7505000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Toilet",
+      "Penginapan / Glamping",
+      "Mushola",
+      "Warung Makan",
+      "Pusat Informasi",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2007
+  },
+  {
+    "id": 34,
+    "nama": "Puncak Putih 1",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 44793,
+    "rating": 4.9,
+    "estimasi_pendapatan": 223965000,
+    "fasilitas": [
+      "Warung Makan"
+    ],
+    "tahun_buka": 2008
+  },
+  {
+    "id": 35,
+    "nama": "Desa Wisata Galuh 7",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 2838,
+    "rating": 2.5,
+    "estimasi_pendapatan": 14190000,
+    "fasilitas": [
+      "Spot Foto",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1995
+  },
+  {
+    "id": 36,
+    "nama": "Situ Sari 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 2684,
+    "rating": 3.3,
+    "estimasi_pendapatan": 13420000,
+    "fasilitas": [
+      "Area Parkir",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1989
+  },
+  {
+    "id": 37,
+    "nama": "Kolam Renang Wangi 3",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 2889,
+    "rating": 2.4,
+    "estimasi_pendapatan": 57780000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1993
+  },
+  {
+    "id": 38,
+    "nama": "Leuwi Giri 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 1132,
+    "rating": 4.1,
+    "estimasi_pendapatan": 11320000,
+    "fasilitas": [
+      "Toilet",
+      "Warung Makan",
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Mushola"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 39,
+    "nama": "Leuwi Jaya 5",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Caringin",
+    "pengunjung": 40481,
+    "rating": 4.2,
+    "estimasi_pendapatan": 404810000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1980
+  },
+  {
+    "id": 40,
+    "nama": "Sanggar Tari Mekar 9",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 2033,
+    "rating": 3.7,
+    "estimasi_pendapatan": 10165000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Toilet",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 41,
+    "nama": "Goa Giri 9",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 837,
+    "rating": 3.8,
+    "estimasi_pendapatan": 8370000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Warung Makan",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1985
+  },
+  {
+    "id": 42,
+    "nama": "Leuwi Putih 4",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 1059,
+    "rating": 3.2,
+    "estimasi_pendapatan": 5295000,
+    "fasilitas": [
+      "Toilet",
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2001
+  },
+  {
+    "id": 43,
+    "nama": "Taman Air Endah 5",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 18784,
+    "rating": 4.8,
+    "estimasi_pendapatan": 187840000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1994
+  },
+  {
+    "id": 44,
+    "nama": "Kampung Adat Giri 7",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 2335,
+    "rating": 3.1,
+    "estimasi_pendapatan": 58375000,
+    "fasilitas": [
+      "Mushola",
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Warung Makan",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Toilet"
+    ],
+    "tahun_buka": 2003
+  },
+  {
+    "id": 45,
+    "nama": "Leuwi Asri 6",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 1272,
+    "rating": 2.1,
+    "estimasi_pendapatan": 25440000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Warung Makan",
+      "Spot Foto",
+      "Toilet",
+      "Penginapan / Glamping",
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2014
+  },
+  {
+    "id": 46,
+    "nama": "Situ Giri 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 971,
+    "rating": 2.3,
+    "estimasi_pendapatan": 14565000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 47,
+    "nama": "Resort & Camp Asri 8",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 20004,
+    "rating": 4.1,
+    "estimasi_pendapatan": 100020000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Spot Foto",
+      "Pusat Informasi",
+      "Akses Kursi Roda",
+      "Toilet",
+      "Warung Makan",
+      "Area Parkir",
+      "Mushola"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 48,
+    "nama": "Puncak Endah 6",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Leles",
+    "pengunjung": 19440,
+    "rating": 4.3,
+    "estimasi_pendapatan": 486000000,
+    "fasilitas": [
+      "Toilet",
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Warung Makan",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 49,
+    "nama": "Situs Sejarah Endah 1",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 46696,
+    "rating": 4.3,
+    "estimasi_pendapatan": 1167400000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 50,
+    "nama": "Padepokan Seni Wangi 2",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 14084,
+    "rating": 4.5,
+    "estimasi_pendapatan": 281680000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Spot Foto",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Area Parkir",
+      "Toilet",
+      "Mushola"
+    ],
+    "tahun_buka": 1987
+  },
+  {
+    "id": 51,
+    "nama": "Leuwi Endah 8",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 45735,
+    "rating": 4,
+    "estimasi_pendapatan": 914700000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Spot Foto",
+      "Toilet",
+      "Mushola"
+    ],
+    "tahun_buka": 2014
+  },
+  {
+    "id": 52,
+    "nama": "Hutan Asri 5",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 2937,
+    "rating": 2.1,
+    "estimasi_pendapatan": 14685000,
+    "fasilitas": [
+      "Toilet",
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1989
+  },
+  {
+    "id": 53,
+    "nama": "Puncak Galuh 5",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 32547,
+    "rating": 3.9,
+    "estimasi_pendapatan": 162735000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Mushola"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 54,
+    "nama": "Taman Rekreasi Putih 7",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 1348,
+    "rating": 2,
+    "estimasi_pendapatan": 33700000,
+    "fasilitas": [
+      "Area Parkir",
+      "Spot Foto",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2001
+  },
+  {
+    "id": 55,
+    "nama": "Bukit Galuh 8",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 2015,
+    "rating": 2.5,
+    "estimasi_pendapatan": 50375000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1987
+  },
+  {
+    "id": 56,
+    "nama": "Curug Giri 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Caringin",
+    "pengunjung": 1478,
+    "rating": 2.2,
+    "estimasi_pendapatan": 29560000,
+    "fasilitas": [
+      "Mushola",
+      "Spot Foto",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1998
+  },
+  {
+    "id": 57,
+    "nama": "Kawasan Agrowisata Mulya 2",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 37232,
+    "rating": 4.1,
+    "estimasi_pendapatan": 186160000,
+    "fasilitas": [
+      "Warung Makan",
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Toilet",
+      "Pusat Informasi",
+      "Spot Foto",
+      "Mushola"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 58,
+    "nama": "Hutan Galuh 5",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 1170,
+    "rating": 3.8,
+    "estimasi_pendapatan": 5850000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Area Parkir",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 59,
+    "nama": "Situs Sejarah Giri 9",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 1228,
+    "rating": 3.4,
+    "estimasi_pendapatan": 30700000,
+    "fasilitas": [
+      "Spot Foto",
+      "Mushola",
+      "Area Parkir",
+      "Warung Makan",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1998
+  },
+  {
+    "id": 60,
+    "nama": "Kawasan Agrowisata Jaya 2",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Caringin",
+    "pengunjung": 8487,
+    "rating": 3.6,
+    "estimasi_pendapatan": 127305000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Warung Makan",
+      "Mushola",
+      "Toilet"
+    ],
+    "tahun_buka": 1991
+  },
+  {
+    "id": 61,
+    "nama": "Bukit Mekar 1",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 38083,
+    "rating": 4.8,
+    "estimasi_pendapatan": 952075000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Toilet",
+      "Spot Foto",
+      "Warung Makan",
+      "Penginapan / Glamping",
+      "Mushola",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1980
+  },
+  {
+    "id": 62,
+    "nama": "Sanggar Tari Wangi 9",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Kadungora",
+    "pengunjung": 2821,
+    "rating": 4.5,
+    "estimasi_pendapatan": 42315000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1990
+  },
+  {
+    "id": 63,
+    "nama": "Alun-alun Giri 5",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 2274,
+    "rating": 3.2,
+    "estimasi_pendapatan": 11370000,
+    "fasilitas": [
+      "Area Parkir",
+      "Spot Foto",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Warung Makan"
+    ],
+    "tahun_buka": 2010
+  },
+  {
+    "id": 64,
+    "nama": "Museum Putih 4",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 25383,
+    "rating": 3.9,
+    "estimasi_pendapatan": 634575000,
+    "fasilitas": [
+      "Warung Makan",
+      "Pusat Informasi",
+      "Toilet",
+      "Akses Kursi Roda",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2003
+  },
+  {
+    "id": 65,
+    "nama": "Bukit Galuh 9",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 1666,
+    "rating": 2.4,
+    "estimasi_pendapatan": 33320000,
+    "fasilitas": [
+      "Mushola",
+      "Toilet",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2014
+  },
+  {
+    "id": 66,
+    "nama": "Museum Jaya 8",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Caringin",
+    "pengunjung": 23118,
+    "rating": 3.7,
+    "estimasi_pendapatan": 231180000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Mushola",
+      "Toilet"
+    ],
+    "tahun_buka": 2012
+  },
+  {
+    "id": 67,
+    "nama": "Leuwi Wangi 4",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 649,
+    "rating": 3.6,
+    "estimasi_pendapatan": 3245000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2011
+  },
+  {
+    "id": 68,
+    "nama": "Gunung Giri 8",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 1239,
+    "rating": 3.8,
+    "estimasi_pendapatan": 6195000,
+    "fasilitas": [
+      "Mushola",
+      "Warung Makan",
+      "Toilet",
+      "Penginapan / Glamping",
+      "Spot Foto",
+      "Pusat Informasi",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 69,
+    "nama": "Museum Asri 3",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 222,
+    "rating": 4.4,
+    "estimasi_pendapatan": 5550000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Mushola",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 70,
+    "nama": "Alun-alun Asri 5",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 1228,
+    "rating": 2.9,
+    "estimasi_pendapatan": 12280000,
+    "fasilitas": [
+      "Toilet",
+      "Mushola",
+      "Pusat Oleh-oleh",
+      "Spot Foto",
+      "Warung Makan",
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2010
+  },
+  {
+    "id": 71,
+    "nama": "Alun-alun Mulya 4",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Sukawening",
+    "pengunjung": 2975,
+    "rating": 4.2,
+    "estimasi_pendapatan": 29750000,
+    "fasilitas": [
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1993
+  },
+  {
+    "id": 72,
+    "nama": "Sanggar Tari Endah 5",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 373,
+    "rating": 3.1,
+    "estimasi_pendapatan": 3730000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 73,
+    "nama": "Leuwi Mekar 9",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 23199,
+    "rating": 4.9,
+    "estimasi_pendapatan": 579975000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Area Parkir",
+      "Akses Kursi Roda",
+      "Toilet"
+    ],
+    "tahun_buka": 1989
+  },
+  {
+    "id": 74,
+    "nama": "Pantai Endah 2",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 29491,
+    "rating": 4.1,
+    "estimasi_pendapatan": 737275000,
+    "fasilitas": [
+      "Area Parkir",
+      "Pusat Informasi",
+      "Penginapan / Glamping",
+      "Toilet",
+      "Spot Foto",
+      "Warung Makan",
+      "Mushola",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1982
+  },
+  {
+    "id": 75,
+    "nama": "Puncak Endah 4",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 2736,
+    "rating": 2.2,
+    "estimasi_pendapatan": 41040000,
+    "fasilitas": [
+      "Toilet",
+      "Mushola",
+      "Area Parkir",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 76,
+    "nama": "Curug Endah 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 1100,
+    "rating": 4.4,
+    "estimasi_pendapatan": 16500000,
+    "fasilitas": [
+      "Warung Makan",
+      "Mushola"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 77,
+    "nama": "Makam Keramat Giri 9",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Leles",
+    "pengunjung": 2012,
+    "rating": 4.2,
+    "estimasi_pendapatan": 30180000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Warung Makan",
+      "Mushola"
+    ],
+    "tahun_buka": 1983
+  },
+  {
+    "id": 78,
+    "nama": "Hutan Endah 9",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Leles",
+    "pengunjung": 926,
+    "rating": 2.3,
+    "estimasi_pendapatan": 18520000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 79,
+    "nama": "Hutan Endah 8",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Leles",
+    "pengunjung": 877,
+    "rating": 4.2,
+    "estimasi_pendapatan": 4385000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Pusat Informasi",
+      "Mushola",
+      "Toilet",
+      "Warung Makan",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2011
+  },
+  {
+    "id": 80,
+    "nama": "Kampung Adat Giri 2",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 2256,
+    "rating": 2.3,
+    "estimasi_pendapatan": 33840000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Toilet",
+      "Spot Foto",
+      "Mushola"
+    ],
+    "tahun_buka": 1989
+  },
+  {
+    "id": 81,
+    "nama": "Kolam Renang Mulya 7",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 1160,
+    "rating": 4.5,
+    "estimasi_pendapatan": 23200000,
+    "fasilitas": [
+      "Area Parkir",
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Toilet",
+      "Spot Foto",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1987
+  },
+  {
+    "id": 82,
+    "nama": "Curug Giri 1",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 2352,
+    "rating": 3,
+    "estimasi_pendapatan": 47040000,
+    "fasilitas": [
+      "Warung Makan",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 83,
+    "nama": "Leuwi Giri 4",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 46124,
+    "rating": 3.7,
+    "estimasi_pendapatan": 1153100000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2010
+  },
+  {
+    "id": 84,
+    "nama": "Puncak Mekar 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 1162,
+    "rating": 4.4,
+    "estimasi_pendapatan": 11620000,
+    "fasilitas": [
+      "Mushola",
+      "Warung Makan",
+      "Area Parkir",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 85,
+    "nama": "Situ Mekar 4",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Sukawening",
+    "pengunjung": 612,
+    "rating": 4.1,
+    "estimasi_pendapatan": 6120000,
+    "fasilitas": [
+      "Warung Makan",
+      "Spot Foto",
+      "Mushola",
+      "Toilet"
+    ],
+    "tahun_buka": 1994
+  },
+  {
+    "id": 86,
+    "nama": "Situs Sejarah Mekar 9",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 497,
+    "rating": 3.9,
+    "estimasi_pendapatan": 7455000,
+    "fasilitas": [
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 87,
+    "nama": "Puncak Sari 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 2571,
+    "rating": 4.4,
+    "estimasi_pendapatan": 12855000,
+    "fasilitas": [
+      "Mushola",
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 88,
+    "nama": "Kampung Adat Asri 7",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Samarang",
+    "pengunjung": 49055,
+    "rating": 4.2,
+    "estimasi_pendapatan": 245275000,
+    "fasilitas": [
+      "Toilet",
+      "Area Parkir",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 89,
+    "nama": "Pantai Mulya 1",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Cibalong",
+    "pengunjung": 38958,
+    "rating": 4.6,
+    "estimasi_pendapatan": 194790000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2010
+  },
+  {
+    "id": 90,
+    "nama": "Curug Mulya 5",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 16181,
+    "rating": 4.1,
+    "estimasi_pendapatan": 323620000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Area Parkir",
+      "Toilet",
+      "Mushola"
+    ],
+    "tahun_buka": 2013
+  },
+  {
+    "id": 91,
+    "nama": "Padepokan Seni Wangi 7",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 1043,
+    "rating": 2.9,
+    "estimasi_pendapatan": 20860000,
+    "fasilitas": [
+      "Mushola"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 92,
+    "nama": "Desa Wisata Galuh 8",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 257,
+    "rating": 2.6,
+    "estimasi_pendapatan": 5140000,
+    "fasilitas": [
+      "Spot Foto",
+      "Toilet",
+      "Pusat Informasi",
+      "Area Parkir",
+      "Warung Makan",
+      "Penginapan / Glamping",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 93,
+    "nama": "Situ Endah 1",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Caringin",
+    "pengunjung": 44398,
+    "rating": 4.2,
+    "estimasi_pendapatan": 1109950000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1983
+  },
+  {
+    "id": 94,
+    "nama": "Alun-alun Sari 6",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Caringin",
+    "pengunjung": 2225,
+    "rating": 2.4,
+    "estimasi_pendapatan": 44500000,
+    "fasilitas": [
+      "Spot Foto"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 95,
+    "nama": "Hutan Galuh 9",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Kadungora",
+    "pengunjung": 15289,
+    "rating": 3.8,
+    "estimasi_pendapatan": 76445000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Spot Foto",
+      "Warung Makan",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 96,
+    "nama": "Puncak Giri 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 2663,
+    "rating": 4.2,
+    "estimasi_pendapatan": 13315000,
+    "fasilitas": [
+      "Toilet",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1981
+  },
+  {
+    "id": 97,
+    "nama": "Gunung Endah 7",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Sukawening",
+    "pengunjung": 1003,
+    "rating": 3.9,
+    "estimasi_pendapatan": 10030000,
+    "fasilitas": [
+      "Toilet",
+      "Mushola",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2013
+  },
+  {
+    "id": 98,
+    "nama": "Pantai Putih 1",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Sukawening",
+    "pengunjung": 265,
+    "rating": 2.1,
+    "estimasi_pendapatan": 1325000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Warung Makan",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 99,
+    "nama": "Taman Rekreasi Putih 9",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 460,
+    "rating": 3.7,
+    "estimasi_pendapatan": 9200000,
+    "fasilitas": [
+      "Toilet",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 100,
+    "nama": "Situ Endah 6",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 27586,
+    "rating": 4.4,
+    "estimasi_pendapatan": 551720000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Spot Foto",
+      "Mushola",
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Toilet"
+    ],
+    "tahun_buka": 1995
+  },
+  {
+    "id": 101,
+    "nama": "Goa Asri 5",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 1402,
+    "rating": 4.3,
+    "estimasi_pendapatan": 21030000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 102,
+    "nama": "Gunung Sari 8",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 2988,
+    "rating": 4.2,
+    "estimasi_pendapatan": 74700000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Toilet",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2003
+  },
+  {
+    "id": 103,
+    "nama": "Alun-alun Giri 2",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Kadungora",
+    "pengunjung": 31459,
+    "rating": 3.9,
+    "estimasi_pendapatan": 157295000,
+    "fasilitas": [
+      "Toilet",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 104,
+    "nama": "Alun-alun Wangi 3",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 461,
+    "rating": 2.2,
+    "estimasi_pendapatan": 11525000,
+    "fasilitas": [
+      "Toilet",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Spot Foto",
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Mushola"
+    ],
+    "tahun_buka": 2004
+  },
+  {
+    "id": 105,
+    "nama": "Situs Sejarah Endah 6",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 45142,
+    "rating": 4.4,
+    "estimasi_pendapatan": 225710000,
+    "fasilitas": [
+      "Toilet",
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2011
+  },
+  {
+    "id": 106,
+    "nama": "Hutan Galuh 5",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Sukawening",
+    "pengunjung": 9509,
+    "rating": 4.2,
+    "estimasi_pendapatan": 95090000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Area Parkir",
+      "Spot Foto",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1991
+  },
+  {
+    "id": 107,
+    "nama": "Kawasan Agrowisata Galuh 1",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 839,
+    "rating": 4.5,
+    "estimasi_pendapatan": 8390000,
+    "fasilitas": [
+      "Mushola",
+      "Akses Kursi Roda",
+      "Toilet",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1985
+  },
+  {
+    "id": 108,
+    "nama": "Alun-alun Wangi 2",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Leles",
+    "pengunjung": 36567,
+    "rating": 4.8,
+    "estimasi_pendapatan": 914175000,
+    "fasilitas": [
+      "Spot Foto",
+      "Pusat Informasi",
+      "Area Parkir",
+      "Mushola",
+      "Penginapan / Glamping",
+      "Toilet"
+    ],
+    "tahun_buka": 1998
+  },
+  {
+    "id": 109,
+    "nama": "Kampung Adat Wangi 2",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Sukawening",
+    "pengunjung": 696,
+    "rating": 2.6,
+    "estimasi_pendapatan": 13920000,
+    "fasilitas": [
+      "Spot Foto",
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1991
+  },
+  {
+    "id": 110,
+    "nama": "Sanggar Tari Galuh 3",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 1716,
+    "rating": 2.1,
+    "estimasi_pendapatan": 25740000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Mushola",
+      "Area Parkir",
+      "Toilet"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 111,
+    "nama": "Pantai Jaya 4",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 43287,
+    "rating": 4.2,
+    "estimasi_pendapatan": 216435000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2001
+  },
+  {
+    "id": 112,
+    "nama": "Kawasan Agrowisata Wangi 9",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 1998,
+    "rating": 3.3,
+    "estimasi_pendapatan": 9990000,
+    "fasilitas": [
+      "Toilet"
+    ],
+    "tahun_buka": 2003
+  },
+  {
+    "id": 113,
+    "nama": "Curug Giri 7",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 31790,
+    "rating": 4.6,
+    "estimasi_pendapatan": 476850000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Spot Foto",
+      "Warung Makan",
+      "Mushola"
+    ],
+    "tahun_buka": 2010
+  },
+  {
+    "id": 114,
+    "nama": "Situs Sejarah Sari 6",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 43133,
+    "rating": 4.7,
+    "estimasi_pendapatan": 1078325000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Penginapan / Glamping",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 115,
+    "nama": "Desa Wisata Wangi 3",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 866,
+    "rating": 2.4,
+    "estimasi_pendapatan": 21650000,
+    "fasilitas": [
+      "Toilet",
+      "Area Parkir",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 116,
+    "nama": "Alun-alun Mulya 9",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 19324,
+    "rating": 5,
+    "estimasi_pendapatan": 96620000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1998
+  },
+  {
+    "id": 117,
+    "nama": "Gunung Asri 9",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 1365,
+    "rating": 2.6,
+    "estimasi_pendapatan": 13650000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Warung Makan",
+      "Mushola",
+      "Toilet",
+      "Area Parkir",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 118,
+    "nama": "Leuwi Putih 9",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 1219,
+    "rating": 4.3,
+    "estimasi_pendapatan": 18285000,
+    "fasilitas": [
+      "Toilet",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Mushola"
+    ],
+    "tahun_buka": 1980
+  },
+  {
+    "id": 119,
+    "nama": "Bukit Sari 5",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 2695,
+    "rating": 3.4,
+    "estimasi_pendapatan": 13475000,
+    "fasilitas": [
+      "Area Parkir",
+      "Warung Makan",
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 120,
+    "nama": "Curug Jaya 4",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 292,
+    "rating": 3.4,
+    "estimasi_pendapatan": 2920000,
+    "fasilitas": [
+      "Warung Makan"
+    ],
+    "tahun_buka": 2002
+  },
+  {
+    "id": 121,
+    "nama": "Desa Wisata Giri 6",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 6362,
+    "rating": 4.7,
+    "estimasi_pendapatan": 159050000,
+    "fasilitas": [
+      "Warung Makan",
+      "Mushola",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 122,
+    "nama": "Kawasan Agrowisata Mulya 3",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Leles",
+    "pengunjung": 43249,
+    "rating": 4.7,
+    "estimasi_pendapatan": 432490000,
+    "fasilitas": [
+      "Toilet",
+      "Area Parkir",
+      "Warung Makan",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2014
+  },
+  {
+    "id": 123,
+    "nama": "Kampung Adat Asri 3",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 2401,
+    "rating": 2.6,
+    "estimasi_pendapatan": 48020000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Warung Makan",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2009
+  },
+  {
+    "id": 124,
+    "nama": "Situs Sejarah Asri 6",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Caringin",
+    "pengunjung": 1001,
+    "rating": 4.2,
+    "estimasi_pendapatan": 5005000,
+    "fasilitas": [
+      "Toilet",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Area Parkir",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1991
+  },
+  {
+    "id": 125,
+    "nama": "Taman Rekreasi Endah 5",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 2241,
+    "rating": 4.5,
+    "estimasi_pendapatan": 33615000,
+    "fasilitas": [
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1997
+  },
+  {
+    "id": 126,
+    "nama": "Gunung Mulya 1",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 48910,
+    "rating": 4.3,
+    "estimasi_pendapatan": 489100000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 1983
+  },
+  {
+    "id": 127,
+    "nama": "Kampung Adat Endah 8",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 202,
+    "rating": 3,
+    "estimasi_pendapatan": 5050000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Warung Makan",
+      "Spot Foto",
+      "Mushola",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2012
+  },
+  {
+    "id": 128,
+    "nama": "Pantai Endah 1",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 11973,
+    "rating": 3.9,
+    "estimasi_pendapatan": 119730000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Toilet",
+      "Warung Makan",
+      "Area Parkir",
+      "Akses Kursi Roda",
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2010
+  },
+  {
+    "id": 129,
+    "nama": "Taman Rekreasi Jaya 5",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 1761,
+    "rating": 3.4,
+    "estimasi_pendapatan": 44025000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1989
+  },
+  {
+    "id": 130,
+    "nama": "Makam Keramat Jaya 9",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 770,
+    "rating": 3.5,
+    "estimasi_pendapatan": 15400000,
+    "fasilitas": [
+      "Warung Makan",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Area Parkir",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 131,
+    "nama": "Puncak Jaya 1",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 198,
+    "rating": 3.8,
+    "estimasi_pendapatan": 4950000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Spot Foto",
+      "Akses Kursi Roda",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 1983
+  },
+  {
+    "id": 132,
+    "nama": "Situ Asri 5",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 1676,
+    "rating": 2.4,
+    "estimasi_pendapatan": 25140000,
+    "fasilitas": [
+      "Warung Makan",
+      "Toilet",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2004
+  },
+  {
+    "id": 133,
+    "nama": "Goa Jaya 6",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 2079,
+    "rating": 3.7,
+    "estimasi_pendapatan": 41580000,
+    "fasilitas": [
+      "Warung Makan",
+      "Mushola",
+      "Penginapan / Glamping",
+      "Toilet",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1990
+  },
+  {
+    "id": 134,
+    "nama": "Puncak Giri 7",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 813,
+    "rating": 3.4,
+    "estimasi_pendapatan": 8130000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2001
+  },
+  {
+    "id": 135,
+    "nama": "Kampung Adat Wangi 1",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 1235,
+    "rating": 2.1,
+    "estimasi_pendapatan": 6175000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Spot Foto",
+      "Toilet",
+      "Warung Makan",
+      "Area Parkir",
+      "Akses Kursi Roda",
+      "Pusat Oleh-oleh",
+      "Mushola"
+    ],
+    "tahun_buka": 1990
+  },
+  {
+    "id": 136,
+    "nama": "Taman Air Galuh 9",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 203,
+    "rating": 2.9,
+    "estimasi_pendapatan": 5075000,
+    "fasilitas": [
+      "Area Parkir",
+      "Pusat Informasi",
+      "Penginapan / Glamping",
+      "Spot Foto",
+      "Mushola"
+    ],
+    "tahun_buka": 1993
+  },
+  {
+    "id": 137,
+    "nama": "Desa Wisata Endah 6",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 87,
+    "rating": 3.6,
+    "estimasi_pendapatan": 1305000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Spot Foto",
+      "Mushola",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1985
+  },
+  {
+    "id": 138,
+    "nama": "Leuwi Putih 6",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 1272,
+    "rating": 3,
+    "estimasi_pendapatan": 6360000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Warung Makan",
+      "Penginapan / Glamping",
+      "Toilet",
+      "Mushola",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 1997
+  },
+  {
+    "id": 139,
+    "nama": "Taman Air Wangi 9",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Sukawening",
+    "pengunjung": 2376,
+    "rating": 3.3,
+    "estimasi_pendapatan": 11880000,
+    "fasilitas": [
+      "Spot Foto",
+      "Mushola",
+      "Area Parkir",
+      "Warung Makan",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 140,
+    "nama": "Goa Jaya 7",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 2518,
+    "rating": 3.7,
+    "estimasi_pendapatan": 50360000,
+    "fasilitas": [
+      "Area Parkir",
+      "Warung Makan",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1985
+  },
+  {
+    "id": 141,
+    "nama": "Alun-alun Asri 4",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 489,
+    "rating": 3,
+    "estimasi_pendapatan": 4890000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Mushola",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Toilet",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1995
+  },
+  {
+    "id": 142,
+    "nama": "Goa Asri 5",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 22457,
+    "rating": 3.9,
+    "estimasi_pendapatan": 112285000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 143,
+    "nama": "Curug Wangi 5",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 1215,
+    "rating": 2.5,
+    "estimasi_pendapatan": 18225000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Toilet"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 144,
+    "nama": "Leuwi Mekar 8",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 30276,
+    "rating": 4.3,
+    "estimasi_pendapatan": 756900000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Spot Foto",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Toilet",
+      "Warung Makan"
+    ],
+    "tahun_buka": 2000
+  },
+  {
+    "id": 145,
+    "nama": "Pantai Galuh 8",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 2676,
+    "rating": 2.6,
+    "estimasi_pendapatan": 66900000,
+    "fasilitas": [
+      "Mushola",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 146,
+    "nama": "Kawasan Agrowisata Asri 2",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 2275,
+    "rating": 2.6,
+    "estimasi_pendapatan": 56875000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2013
+  },
+  {
+    "id": 147,
+    "nama": "Leuwi Giri 4",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Caringin",
+    "pengunjung": 34861,
+    "rating": 4.8,
+    "estimasi_pendapatan": 697220000,
+    "fasilitas": [
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Mushola",
+      "Toilet"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 148,
+    "nama": "Resort & Camp Endah 3",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 2073,
+    "rating": 2.4,
+    "estimasi_pendapatan": 31095000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2007
+  },
+  {
+    "id": 149,
+    "nama": "Pantai Mekar 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 599,
+    "rating": 3.2,
+    "estimasi_pendapatan": 2995000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1980
+  },
+  {
+    "id": 150,
+    "nama": "Pantai Mulya 8",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 33544,
+    "rating": 3.6,
+    "estimasi_pendapatan": 503160000,
+    "fasilitas": [
+      "Mushola",
+      "Warung Makan",
+      "Spot Foto",
+      "Akses Kursi Roda",
+      "Toilet"
+    ],
+    "tahun_buka": 1981
+  },
+  {
+    "id": 151,
+    "nama": "Bukit Sari 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 1967,
+    "rating": 3,
+    "estimasi_pendapatan": 39340000,
+    "fasilitas": [
+      "Mushola",
+      "Spot Foto",
+      "Area Parkir",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2002
+  },
+  {
+    "id": 152,
+    "nama": "Resort & Camp Asri 9",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 1167,
+    "rating": 3,
+    "estimasi_pendapatan": 23340000,
+    "fasilitas": [
+      "Spot Foto",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2004
+  },
+  {
+    "id": 153,
+    "nama": "Puncak Endah 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 839,
+    "rating": 3.3,
+    "estimasi_pendapatan": 8390000,
+    "fasilitas": [
+      "Mushola",
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2009
+  },
+  {
+    "id": 154,
+    "nama": "Hutan Galuh 9",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Kadungora",
+    "pengunjung": 7882,
+    "rating": 4.1,
+    "estimasi_pendapatan": 118230000,
+    "fasilitas": [
+      "Area Parkir",
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Pusat Informasi",
+      "Toilet",
+      "Warung Makan",
+      "Akses Kursi Roda",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 155,
+    "nama": "Kawasan Agrowisata Mekar 9",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 1404,
+    "rating": 2.6,
+    "estimasi_pendapatan": 35100000,
+    "fasilitas": [
+      "Warung Makan",
+      "Spot Foto",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Toilet",
+      "Pusat Oleh-oleh",
+      "Pusat Informasi",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 156,
+    "nama": "Puncak Mekar 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Caringin",
+    "pengunjung": 715,
+    "rating": 2.8,
+    "estimasi_pendapatan": 14300000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh",
+      "Spot Foto",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Toilet",
+      "Area Parkir",
+      "Mushola"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 157,
+    "nama": "Taman Rekreasi Mekar 5",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 48414,
+    "rating": 3.6,
+    "estimasi_pendapatan": 968280000,
+    "fasilitas": [
+      "Area Parkir",
+      "Akses Kursi Roda",
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1982
+  },
+  {
+    "id": 158,
+    "nama": "Kawasan Agrowisata Wangi 9",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 1929,
+    "rating": 3.1,
+    "estimasi_pendapatan": 19290000,
+    "fasilitas": [
+      "Spot Foto",
+      "Toilet"
+    ],
+    "tahun_buka": 1995
+  },
+  {
+    "id": 159,
+    "nama": "Pantai Wangi 8",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kaler",
+    "pengunjung": 2705,
+    "rating": 2.9,
+    "estimasi_pendapatan": 67625000,
+    "fasilitas": [
+      "Toilet",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2003
+  },
+  {
+    "id": 160,
+    "nama": "Situ Endah 5",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Cisurupan",
+    "pengunjung": 17360,
+    "rating": 4.3,
+    "estimasi_pendapatan": 347200000,
+    "fasilitas": [
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1996
+  },
+  {
+    "id": 161,
+    "nama": "Puncak Giri 3",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 47594,
+    "rating": 4.7,
+    "estimasi_pendapatan": 237970000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Area Parkir",
+      "Warung Makan",
+      "Akses Kursi Roda",
+      "Pusat Oleh-oleh",
+      "Mushola",
+      "Spot Foto",
+      "Toilet"
+    ],
+    "tahun_buka": 1996
+  },
+  {
+    "id": 162,
+    "nama": "Goa Asri 4",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Samarang",
+    "pengunjung": 12702,
+    "rating": 3.6,
+    "estimasi_pendapatan": 317550000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Warung Makan"
+    ],
+    "tahun_buka": 2002
+  },
+  {
+    "id": 163,
+    "nama": "Goa Jaya 9",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 107,
+    "rating": 2.9,
+    "estimasi_pendapatan": 1605000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1997
+  },
+  {
+    "id": 164,
+    "nama": "Curug Endah 7",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 1430,
+    "rating": 3.5,
+    "estimasi_pendapatan": 14300000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Mushola"
+    ],
+    "tahun_buka": 2006
+  },
+  {
+    "id": 165,
+    "nama": "Curug Putih 7",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 1258,
+    "rating": 2.1,
+    "estimasi_pendapatan": 6290000,
+    "fasilitas": [
+      "Area Parkir",
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 1994
+  },
+  {
+    "id": 166,
+    "nama": "Leuwi Wangi 7",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 2375,
+    "rating": 2.2,
+    "estimasi_pendapatan": 11875000,
+    "fasilitas": [
+      "Mushola",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Toilet"
+    ],
+    "tahun_buka": 1981
+  },
+  {
+    "id": 167,
+    "nama": "Padepokan Seni Galuh 9",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Sukawening",
+    "pengunjung": 44697,
+    "rating": 4.7,
+    "estimasi_pendapatan": 670455000,
+    "fasilitas": [
+      "Mushola",
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2002
+  },
+  {
+    "id": 168,
+    "nama": "Resort & Camp Mekar 4",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 841,
+    "rating": 3.5,
+    "estimasi_pendapatan": 8410000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Toilet",
+      "Area Parkir",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 169,
+    "nama": "Hutan Sari 7",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Banyuresmi",
+    "pengunjung": 12001,
+    "rating": 4.5,
+    "estimasi_pendapatan": 240020000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Toilet",
+      "Area Parkir",
+      "Warung Makan",
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh",
+      "Mushola"
+    ],
+    "tahun_buka": 1996
+  },
+  {
+    "id": 170,
+    "nama": "Goa Asri 8",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 2552,
+    "rating": 2.5,
+    "estimasi_pendapatan": 25520000,
+    "fasilitas": [
+      "Mushola",
+      "Penginapan / Glamping",
+      "Warung Makan",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 171,
+    "nama": "Museum Galuh 1",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Kadungora",
+    "pengunjung": 2666,
+    "rating": 2.5,
+    "estimasi_pendapatan": 53320000,
+    "fasilitas": [
+      "Warung Makan",
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Pusat Informasi",
+      "Area Parkir",
+      "Mushola"
+    ],
+    "tahun_buka": 1996
+  },
+  {
+    "id": 172,
+    "nama": "Museum Putih 1",
+    "kategori": "Budaya",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pameungpeuk",
+    "pengunjung": 27074,
+    "rating": 4.9,
+    "estimasi_pendapatan": 406110000,
+    "fasilitas": [
+      "Spot Foto",
+      "Area Parkir"
+    ],
+    "tahun_buka": 2008
+  },
+  {
+    "id": 173,
+    "nama": "Goa Asri 8",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 28529,
+    "rating": 4,
+    "estimasi_pendapatan": 427935000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Area Parkir",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Mushola",
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 174,
+    "nama": "Situ Mulya 6",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 2160,
+    "rating": 4.3,
+    "estimasi_pendapatan": 10800000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 175,
+    "nama": "Leuwi Jaya 7",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 1393,
+    "rating": 2.5,
+    "estimasi_pendapatan": 6965000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1992
+  },
+  {
+    "id": 176,
+    "nama": "Goa Wangi 2",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 405,
+    "rating": 2.5,
+    "estimasi_pendapatan": 2025000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Mushola"
+    ],
+    "tahun_buka": 1984
+  },
+  {
+    "id": 177,
+    "nama": "Puncak Sari 6",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 26769,
+    "rating": 4.6,
+    "estimasi_pendapatan": 401535000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1993
+  },
+  {
+    "id": 178,
+    "nama": "Gunung Sari 1",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 2791,
+    "rating": 3.9,
+    "estimasi_pendapatan": 55820000,
+    "fasilitas": [
+      "Mushola",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Toilet",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 1989
+  },
+  {
+    "id": 179,
+    "nama": "Kampung Adat Sari 3",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 440,
+    "rating": 3.9,
+    "estimasi_pendapatan": 6600000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 180,
+    "nama": "Hutan Giri 4",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 806,
+    "rating": 4.3,
+    "estimasi_pendapatan": 12090000,
+    "fasilitas": [
+      "Warung Makan",
+      "Area Parkir",
+      "Pusat Oleh-oleh",
+      "Toilet",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2012
+  },
+  {
+    "id": 181,
+    "nama": "Situ Jaya 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Tarogong Kidul",
+    "pengunjung": 625,
+    "rating": 3.7,
+    "estimasi_pendapatan": 3125000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Warung Makan",
+      "Mushola"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 182,
+    "nama": "Desa Wisata Giri 3",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Blubur Limbangan",
+    "pengunjung": 2005,
+    "rating": 3.8,
+    "estimasi_pendapatan": 20050000,
+    "fasilitas": [
+      "Warung Makan"
+    ],
+    "tahun_buka": 2002
+  },
+  {
+    "id": 183,
+    "nama": "Situs Sejarah Putih 1",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 1375,
+    "rating": 3,
+    "estimasi_pendapatan": 6875000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Area Parkir",
+      "Pusat Oleh-oleh",
+      "Spot Foto",
+      "Mushola"
+    ],
+    "tahun_buka": 1999
+  },
+  {
+    "id": 184,
+    "nama": "Museum Mulya 7",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 1066,
+    "rating": 2.6,
+    "estimasi_pendapatan": 10660000,
+    "fasilitas": [
+      "Toilet",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda"
+    ],
+    "tahun_buka": 2013
+  },
+  {
+    "id": 185,
+    "nama": "Kampung Adat Giri 4",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Kadungora",
+    "pengunjung": 77,
+    "rating": 2.8,
+    "estimasi_pendapatan": 1540000,
+    "fasilitas": [
+      "Pusat Informasi",
+      "Mushola",
+      "Warung Makan",
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Akses Kursi Roda",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2001
+  },
+  {
+    "id": 186,
+    "nama": "Situ Putih 2",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 17590,
+    "rating": 3.9,
+    "estimasi_pendapatan": 351800000,
+    "fasilitas": [
+      "Toilet",
+      "Pusat Oleh-oleh",
+      "Area Parkir",
+      "Warung Makan",
+      "Penginapan / Glamping"
+    ],
+    "tahun_buka": 2005
+  },
+  {
+    "id": 187,
+    "nama": "Alun-alun Sari 6",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Caringin",
+    "pengunjung": 1621,
+    "rating": 3.2,
+    "estimasi_pendapatan": 40525000,
+    "fasilitas": [
+      "Spot Foto",
+      "Penginapan / Glamping",
+      "Mushola"
+    ],
+    "tahun_buka": 2003
+  },
+  {
+    "id": 188,
+    "nama": "Desa Wisata Jaya 2",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Bayongbong",
+    "pengunjung": 1014,
+    "rating": 3.6,
+    "estimasi_pendapatan": 25350000,
+    "fasilitas": [
+      "Toilet",
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 2002
+  },
+  {
+    "id": 189,
+    "nama": "Kolam Renang Sari 7",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Leles",
+    "pengunjung": 1879,
+    "rating": 2.8,
+    "estimasi_pendapatan": 46975000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Akses Kursi Roda",
+      "Spot Foto",
+      "Pusat Informasi",
+      "Warung Makan"
+    ],
+    "tahun_buka": 2013
+  },
+  {
+    "id": 190,
+    "nama": "Situs Sejarah Mulya 6",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Samarang",
+    "pengunjung": 1143,
+    "rating": 2.9,
+    "estimasi_pendapatan": 22860000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Warung Makan"
+    ],
+    "tahun_buka": 1990
+  },
+  {
+    "id": 191,
+    "nama": "Kawasan Agrowisata Mekar 3",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Caringin",
+    "pengunjung": 1400,
+    "rating": 4.2,
+    "estimasi_pendapatan": 7000000,
+    "fasilitas": [
+      "Pusat Informasi"
+    ],
+    "tahun_buka": 1994
+  },
+  {
+    "id": 192,
+    "nama": "Puncak Wangi 9",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Leles",
+    "pengunjung": 1286,
+    "rating": 3.2,
+    "estimasi_pendapatan": 6430000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Warung Makan",
+      "Mushola",
+      "Spot Foto"
+    ],
+    "tahun_buka": 2015
+  },
+  {
+    "id": 193,
+    "nama": "Taman Rekreasi Mulya 5",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Garut Kota",
+    "pengunjung": 2435,
+    "rating": 4,
+    "estimasi_pendapatan": 12175000,
+    "fasilitas": [
+      "Area Parkir",
+      "Mushola",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2012
+  },
+  {
+    "id": 194,
+    "nama": "Pantai Giri 5",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Sukawening",
+    "pengunjung": 47874,
+    "rating": 4.6,
+    "estimasi_pendapatan": 718110000,
+    "fasilitas": [
+      "Area Parkir",
+      "Mushola",
+      "Spot Foto",
+      "Toilet",
+      "Akses Kursi Roda",
+      "Penginapan / Glamping",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh"
+    ],
+    "tahun_buka": 2004
+  },
+  {
+    "id": 195,
+    "nama": "Kampung Adat Mekar 7",
+    "kategori": "Budaya",
+    "status": "Belum Dikelola",
+    "kecamatan": "Kadungora",
+    "pengunjung": 2396,
+    "rating": 3.9,
+    "estimasi_pendapatan": 59900000,
+    "fasilitas": [
+      "Akses Kursi Roda",
+      "Pusat Informasi",
+      "Mushola"
+    ],
+    "tahun_buka": 2009
+  },
+  {
+    "id": 196,
+    "nama": "Hutan Jaya 3",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Cibalong",
+    "pengunjung": 96,
+    "rating": 2.8,
+    "estimasi_pendapatan": 480000,
+    "fasilitas": [
+      "Toilet",
+      "Mushola",
+      "Penginapan / Glamping",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Pusat Informasi",
+      "Pusat Oleh-oleh",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1986
+  },
+  {
+    "id": 197,
+    "nama": "Leuwi Wangi 6",
+    "kategori": "Alam",
+    "status": "Belum Dikelola",
+    "kecamatan": "Pasirwangi",
+    "pengunjung": 1121,
+    "rating": 2.5,
+    "estimasi_pendapatan": 28025000,
+    "fasilitas": [
+      "Toilet",
+      "Area Parkir",
+      "Pusat Informasi",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1988
+  },
+  {
+    "id": 198,
+    "nama": "Situ Galuh 1",
+    "kategori": "Alam",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Pamulihan",
+    "pengunjung": 43339,
+    "rating": 4,
+    "estimasi_pendapatan": 1083475000,
+    "fasilitas": [
+      "Spot Foto",
+      "Pusat Oleh-oleh",
+      "Penginapan / Glamping",
+      "Area Parkir",
+      "Mushola",
+      "Akses Kursi Roda",
+      "Warung Makan",
+      "Toilet"
+    ],
+    "tahun_buka": 1993
+  },
+  {
+    "id": 199,
+    "nama": "Resort & Camp Giri 4",
+    "kategori": "Buatan",
+    "status": "Belum Dikelola",
+    "kecamatan": "Leles",
+    "pengunjung": 1522,
+    "rating": 2.1,
+    "estimasi_pendapatan": 22830000,
+    "fasilitas": [
+      "Penginapan / Glamping",
+      "Akses Kursi Roda",
+      "Toilet",
+      "Area Parkir"
+    ],
+    "tahun_buka": 1982
+  },
+  {
+    "id": 200,
+    "nama": "Taman Rekreasi Galuh 4",
+    "kategori": "Buatan",
+    "status": "Dikelola Dinas",
+    "kecamatan": "Leles",
+    "pengunjung": 45901,
+    "rating": 4.8,
+    "estimasi_pendapatan": 918020000,
+    "fasilitas": [
+      "Toilet",
+      "Akses Kursi Roda",
+      "Spot Foto"
+    ],
+    "tahun_buka": 1980
+  }
+]

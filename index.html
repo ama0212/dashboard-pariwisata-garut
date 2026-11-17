@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard Potensi Pariwisata & Kebudayaan Garut</title>
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+
+  <!-- Custom Tailwind Config -->
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary:   { DEFAULT: '#2563eb', light: '#dbeafe', dark: '#1d4ed8' },
+            success:   { DEFAULT: '#16a34a', light: '#dcfce7' },
+            warning:   { DEFAULT: '#d97706', light: '#fef3c7' },
+            danger:    { DEFAULT: '#dc2626', light: '#fee2e2' },
+            surface:   '#f8fafc',
+            card:      '#ffffff',
+          },
+          fontFamily: {
+            sans: ['"Inter"', 'system-ui', 'sans-serif'],
+          },
+        }
+      }
+    }
+  </script>
+
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="bg-surface font-sans text-gray-800 min-h-screen">
+
+  <!-- ===== HEADER ===== -->
+  <header class="bg-gradient-to-r from-blue-700 to-blue-500 text-white shadow-lg">
+    <div class="max-w-screen-xl mx-auto px-4 py-5 flex flex-col sm:flex-row items-start sm:items-center gap-3">
+      <!-- Logo / Icon -->
+      <div class="bg-white/20 rounded-xl p-2.5 flex-shrink-0">
+        <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round"
+            d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 004 0 2 2 0 012-2h.5A2.5 2.5 0 0022 5.5V3.935M14 3.935V2.5a2.5 2.5 0 00-5 0v1.435M12 14l2 2m0 0l2-2m-2 2V10" />
+        </svg>
+      </div>
+      <!-- Title -->
+      <div>
+        <h1 class="text-xl sm:text-2xl font-bold leading-tight tracking-tight">
+          Dashboard Potensi Pariwisata & Kebudayaan
+        </h1>
+        <p class="text-blue-100 text-sm mt-0.5">Kabupaten Garut — Analisis Data Destinasi &amp; Kunjungan Wisatawan</p>
+      </div>
+      <!-- Badge -->
+      <div class="sm:ml-auto">
+        <span id="lastUpdated" class="text-xs bg-white/15 border border-white/30 rounded-full px-3 py-1">
+          Memuat data…
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== MAIN CONTENT ===== -->
+  <main class="max-w-screen-xl mx-auto px-4 py-6 space-y-8">
+
+    <!-- ===== FILTER PANEL ===== -->
+    <section aria-label="Filter Dashboard">
+      <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 sm:p-5">
+        <div class="flex flex-wrap items-center gap-3">
+          <span class="text-sm font-semibold text-gray-600 mr-1 flex items-center gap-1.5">
+            <svg class="w-4 h-4 text-blue-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2a1 1 0 01-.293.707L13 13.414V19a1 1 0 01-.553.894l-4 2A1 1 0 017 21v-7.586L3.293 6.707A1 1 0 013 6V4z" />
+            </svg>
+            Filter:
+          </span>
+
+          <!-- Kategori Filter -->
+          <div class="flex flex-col gap-1 min-w-[160px]">
+            <label for="filterKategori" class="text-xs font-medium text-gray-500 uppercase tracking-wide">Kategori</label>
+            <select id="filterKategori"
+              class="rounded-lg border border-gray-200 bg-gray-50 text-sm px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400 transition cursor-pointer">
+              <option value="Semua">Semua Kategori</option>
+              <option value="Alam">Alam</option>
+              <option value="Buatan">Buatan</option>
+              <option value="Budaya">Budaya</option>
+            </select>
+          </div>
+
+          <!-- Status Filter -->
+          <div class="flex flex-col gap-1 min-w-[180px]">
+            <label for="filterStatus" class="text-xs font-medium text-gray-500 uppercase tracking-wide">Status Pengelolaan</label>
+            <select id="filterStatus"
+              class="rounded-lg border border-gray-200 bg-gray-50 text-sm px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400 transition cursor-pointer">
+              <option value="Semua">Semua Status</option>
+              <option value="Dikelola Dinas">Dikelola Dinas</option>
+              <option value="Belum Dikelola">Belum Dikelola</option>
+            </select>
+          </div>
+
+          <!-- Reset Button -->
+          <div class="flex flex-col gap-1 mt-auto">
+            <span class="text-xs text-transparent">‎</span>
+            <button id="btnReset"
+              class="rounded-lg bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium px-4 py-2 transition focus:outline-none focus:ring-2 focus:ring-blue-400">
+              Reset Filter
+            </button>
+          </div>
+
+          <!-- Result Count -->
+          <div class="ml-auto text-sm text-gray-500 self-end pb-1.5">
+            Menampilkan <span id="resultCount" class="font-semibold text-blue-600">0</span> destinasi
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== KPI CARDS ===== -->
+    <section aria-label="KPI Utama">
+      <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
+
+        <!-- KPI 1: Total Destinasi -->
+        <div class="kpi-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <div class="flex items-start justify-between">
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-widest text-gray-400">Total Destinasi</p>
+              <p id="kpiTotalDestinasi" class="text-3xl font-extrabold text-blue-600 mt-1">—</p>
+              <p class="text-xs text-gray-400 mt-1">objek wisata terdaftar</p>
+            </div>
+            <div class="bg-blue-50 rounded-xl p-2.5">
+              <svg class="w-6 h-6 text-blue-500" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        <!-- KPI 2: Belum Dikelola -->
+        <div class="kpi-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <div class="flex items-start justify-between">
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-widest text-gray-400">Potensi Baru</p>
+              <p id="kpiBelumDikelola" class="text-3xl font-extrabold text-amber-500 mt-1">—</p>
+              <p class="text-xs text-gray-400 mt-1">belum dikelola dinas</p>
+            </div>
+            <div class="bg-amber-50 rounded-xl p-2.5">
+              <svg class="w-6 h-6 text-amber-500" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        <!-- KPI 3: Total Kunjungan -->
+        <div class="kpi-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <div class="flex items-start justify-between">
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-widest text-gray-400">Total Kunjungan</p>
+              <p id="kpiTotalKunjungan" class="text-3xl font-extrabold text-emerald-600 mt-1">—</p>
+              <p class="text-xs text-gray-400 mt-1">wisatawan per tahun</p>
+            </div>
+            <div class="bg-emerald-50 rounded-xl p-2.5">
+              <svg class="w-6 h-6 text-emerald-500" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+            </div>
+          </div>
+        </div>
+
+        <!-- KPI 4: Total Estimasi Pendapatan -->
+        <div class="kpi-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <div class="flex items-start justify-between">
+            <div>
+              <p class="text-xs font-semibold uppercase tracking-widest text-gray-400">Est. Pendapatan</p>
+              <p id="kpiTotalPendapatan" class="text-2xl font-extrabold text-purple-600 mt-1">—</p>
+              <p class="text-xs text-gray-400 mt-1">estimasi total/tahun</p>
+            </div>
+            <div class="bg-purple-50 rounded-xl p-2.5">
+              <svg class="w-6 h-6 text-purple-500" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===== CHARTS ROW 1: Distribusi & Proporsi ===== -->
+    <section aria-label="Distribusi dan Proporsi">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+
+        <!-- Chart 1: Distribusi Kategori -->
+        <div class="chart-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <h2 class="chart-title">Distribusi Kategori Pariwisata</h2>
+          <p class="chart-subtitle">Jumlah destinasi per kategori (Alam, Buatan, Budaya)</p>
+          <div class="chart-container-sm mt-4">
+            <canvas id="chartKategori"></canvas>
+          </div>
+        </div>
+
+        <!-- Chart 2: Proporsi Status Pengelolaan -->
+        <div class="chart-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <h2 class="chart-title">Status Pengelolaan Destinasi</h2>
+          <p class="chart-subtitle">Proporsi destinasi dikelola vs belum dikelola</p>
+          <div class="chart-container-sm mt-4">
+            <canvas id="chartStatus"></canvas>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===== CHARTS ROW 2: Top 10 & Pendapatan ===== -->
+    <section aria-label="Top Destinasi dan Pendapatan">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
+
+        <!-- Chart 3: Top 10 Pengunjung -->
+        <div class="chart-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <h2 class="chart-title">Top 10 Destinasi Terpopuler</h2>
+          <p class="chart-subtitle">Berdasarkan jumlah kunjungan wisatawan</p>
+          <div class="chart-container-lg mt-4">
+            <canvas id="chartTop10"></canvas>
+          </div>
+        </div>
+
+        <!-- Chart 4: Pendapatan per Kategori -->
+        <div class="chart-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <h2 class="chart-title">Estimasi Pendapatan per Kategori</h2>
+          <p class="chart-subtitle">Total estimasi pendapatan tahunan (dalam juta rupiah)</p>
+          <div class="chart-container-md mt-4">
+            <canvas id="chartPendapatan"></canvas>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===== CHARTS ROW 3: Rating & Scatter ===== -->
+    <section aria-label="Analisis Rating">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
+
+        <!-- Chart 5: Rata-rata Rating per Kategori -->
+        <div class="chart-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <h2 class="chart-title">Rata-rata Rating per Kategori</h2>
+          <p class="chart-subtitle">Penilaian wisatawan (skala 1–5) per kategori destinasi</p>
+          <div class="chart-container-md mt-4">
+            <canvas id="chartRating"></canvas>
+          </div>
+        </div>
+
+        <!-- Chart 6: Rating vs Pengunjung Scatter -->
+        <div class="chart-card bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <h2 class="chart-title">Hubungan Rating vs Jumlah Pengunjung</h2>
+          <p class="chart-subtitle">Korelasi antara rating destinasi dan total kunjungan</p>
+          <div class="chart-container-md mt-4">
+            <canvas id="chartScatter"></canvas>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===== DATA TABLE ===== -->
+    <section aria-label="Tabel Destinasi">
+      <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-4">
+          <div>
+            <h2 class="chart-title">Daftar Destinasi Pariwisata</h2>
+            <p class="chart-subtitle">Detail lengkap seluruh destinasi sesuai filter aktif</p>
+          </div>
+          <span class="text-xs bg-blue-50 text-blue-600 font-semibold rounded-full px-3 py-1 self-start sm:self-auto">
+            <span id="tableCount">0</span> Destinasi
+          </span>
+        </div>
+
+        <!-- Table Wrapper -->
+        <div class="overflow-x-auto rounded-xl border border-gray-100">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="bg-gray-50 text-left text-xs font-semibold uppercase tracking-wider text-gray-500">
+                <th class="px-4 py-3 rounded-tl-xl">No</th>
+                <th class="px-4 py-3">Nama Destinasi</th>
+                <th class="px-4 py-3">Kecamatan</th>
+                <th class="px-4 py-3">Kategori</th>
+                <th class="px-4 py-3">Status</th>
+                <th class="px-4 py-3 text-right">Pengunjung</th>
+                <th class="px-4 py-3 text-right">Rating</th>
+                <th class="px-4 py-3 text-right rounded-tr-xl">Est. Pendapatan</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody" class="divide-y divide-gray-50">
+              <!-- Rows injected by script.js -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Empty state -->
+        <div id="tableEmpty" class="hidden text-center py-12 text-gray-400">
+          <svg class="w-12 h-12 mx-auto mb-3 opacity-30" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+          <p class="font-medium">Tidak ada destinasi yang sesuai filter</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="mt-10 border-t border-gray-200 bg-white">
+    <div class="max-w-screen-xl mx-auto px-4 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-gray-400">
+      <span>© 2024 Dinas Pariwisata & Kebudayaan Kabupaten Garut</span>
+      <span>Dashboard Analitik Pariwisata — Versi 1.0</span>
+    </div>
+  </footer>
+
+  <!-- Main Script -->
+  <script src="script.js"></script>
+</body>
+</html>
